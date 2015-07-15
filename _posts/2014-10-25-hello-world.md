@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Hello World
+title: Material Design 
 ---
 
-Hello, World!
+Hello
 
 Material Jekyll: Material Design for Jekyll using Polymer
 
-[GitHub](https://github.com/charbelrami/material-jekyll)
+[facebook](facebook.com/egobrightan)
