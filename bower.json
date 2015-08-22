@@ -1,5 +1,5 @@
 {
-  "name": "material-jekyll",
+  "name": "materialblog",
   "version": "0.1.0",
   "authors": [
     "Charbel Rami"
@@ -12,7 +12,7 @@
     "web-components"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/charbelrami/material-jekyll",
+  "homepage": "https://github.com/egobrightan/materialblog",
   "ignore": [
     "**/.*",
     "node_modules",
